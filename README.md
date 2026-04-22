@@ -12,7 +12,9 @@ This program is used to order from a coffee shop menu
 1. Espresso - $3.50
 2. Latte - $4.50
 3. Cappuccino - $5.00
+
 What would you like to order? (1-3) 2
+
 Are you a member? (Y/N) N
 
 --- RECIEPT ---
