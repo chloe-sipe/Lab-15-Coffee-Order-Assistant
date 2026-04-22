@@ -25,3 +25,6 @@ Price: $4.50
 
 ## Author
 Chloe Sipe
+
+## Collaboration Acknowledgement
+This project was reviewed and edited by Bilal on GitHub
