@@ -16,7 +16,9 @@ What would you like to order? (1-3) 2
 Are you a member? (Y/N) N
 
 --- RECIEPT ---
+
 Drink: Latte
+
 Price: $4.50
 
 ## Author
