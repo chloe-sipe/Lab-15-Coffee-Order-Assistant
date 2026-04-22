@@ -1,4 +1,4 @@
-# Lab-15: Coffee Order Assistant
+# Lab 15: Coffee Order Assistant
 This program is used to order from a coffee shop menu
 
 ## How to Run
